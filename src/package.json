@@ -1,0 +1,17 @@
+{
+  "title": "DataTable Material Demo",
+  "name": "DataTable Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.6/docs/src/pages/components/tables/DataTable.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "4.12.3",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
